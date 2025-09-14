@@ -2,11 +2,11 @@
 8x4x4벌식(도깨비한글) 폰트입니다.
 
 ## 나노굴림
-[8x4x4벌식(NanoGulim844.FNT) 다운로드](https://github.com/alsoduck/nano-johab-fonts/raw/refs/heads/main/NanoGulim844.FNT) <br>
+[8x4x4벌식(NanoGulim844.FNT)](https://github.com/alsoduck/nano-johab-fonts/raw/refs/heads/main/NanoGulim844.FNT) <br>
 이 프로젝트의 메인 글꼴입니다. 둥글어서 읽기 편합니다.
 
 ## 나노돋움
-[8x4x4벌식(NanoDotum844.FNT) 다운로드](https://github.com/alsoduck/nano-johab-fonts/raw/refs/heads/main/NanoDotum844.FNT) <br>
+[8x4x4벌식(NanoDotum844.FNT)](https://github.com/alsoduck/nano-johab-fonts/raw/refs/heads/main/NanoDotum844.FNT) <br>
 나노굴림에서 약간의 수정을 가한 글꼴입니다. 각집니다.
 
 
